@@ -4,6 +4,7 @@ probar que todas la herramientas que se van a usar en el curso están funcionand
 La idea es ejecutar el siguiente code: 
 
 if __name__ == "__main__" :
+
   print("Hola mundo")
 
 Ejecutarlo en: 
