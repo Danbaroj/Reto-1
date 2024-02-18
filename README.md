@@ -1,4 +1,4 @@
-# Reto #1
+# Reto #2
 
 probar que todas la herramientas que se van a usar en el curso están funcionando,
 La idea es ejecutar el siguiente code: 
